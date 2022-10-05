@@ -1,0 +1,40 @@
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+	font-family: Helvetica, arial,sans-serif;
+}
+
+#header {
+	position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    background-color: #0d1117;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+	color: #c9d1d9;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+#container {
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #fff;
+	overflow: hidden;
+	display: flex;
+}
+
+.markdown__container {
+	margin-top: 80px;
+	flex-wrap: wrap;
+}
+
