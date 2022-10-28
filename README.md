@@ -18,17 +18,6 @@ markdown. Our goal is to build something akin to [this](https://markdownliveprev
 - When a line starts with `#` and `##` it is rendered in a `h1` and `h2` block respectively.
 - When a line starts with `---` a `hr` element is rendered.
 
-## Guidance
-
-We are using React and you are free to use any CSS solution you like and install small helper
-libraries like lodash, but keep dependencies to an absolute minimum.
-
-Keep the implementation simple, there are no bonus points for implementing more than what is
-required, we just want to see your ability to write clean JavaScript code, use React, and reason
-about some logic. You can put everything into the `App.tsx` file.
-
-Please timebox yourself to 1-2 hours and commit regularly.
-
 ## Development Environment
 
 This is a regular stripped down [Create React App](https://create-react-app.dev) project with typescript:
