@@ -1,7 +1,7 @@
-## Goal
+## Introduction
 
-Our goal is to build a minimal Markdown Editor that implements a tiny subset of the
-[commonmark spec](https://commonmark.org/help/). It should only take about 1-2 hours to complete.
+A minimal Markdown Editor that implements a tiny subset of the
+[commonmark spec](https://commonmark.org/help/). 
 
 The template contains a text input area and an output area into which to render the formatted
 markdown. Our goal is to build something akin to [this](https://markdownlivepreview.com/).
