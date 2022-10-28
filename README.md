@@ -36,11 +36,5 @@ This is a regular stripped down [Create React App](https://create-react-app.dev)
 - Run `npm start` to start the app in development mode on [http://localhost:3000](http://localhost:3000).
 - Run `npm test` to run tests, [React Testing Library](https://testing-library.com/docs/react-testing-library/) is already set up.
 
-## Submission
-
-To submit your solution please create a **private** repository on GitHub, upload your code, and
-invite [@mrloh](https://github.com/mrloh/) as a collaborator.
-
-
 ## Demo
 https://react-markdown-editor-83.netlify.app/
