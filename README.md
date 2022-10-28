@@ -1,7 +1,3 @@
-## Indigo Markdown Editor Challenge
-
-Welcome to the [Indigo Ag](https://www.indigoag.com/about) React Code challenge.
-
 ## Goal
 
 Our goal is to build a minimal Markdown Editor that implements a tiny subset of the
